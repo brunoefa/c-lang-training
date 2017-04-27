@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1493333451 source:d:\projetos\c-workspace\ordena3numeros\main.c
+	<stdio.h>
+	<stdlib.h>
+
