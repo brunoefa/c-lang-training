@@ -101,14 +101,11 @@ int main()
 
     printf("\n");
 
-
-    printf("\n");
-
     printf("Comandos de entrada e saida de dados\n");
     printf("-----------------------------------------\n");
 
-    printf("printf(\"%%d\", int)\n");
-    printf("scanf(\"%%d\", &int)\n");
+    printf("printf(\"%%d\", int)    Saida de dados na tela\n");
+    printf("scanf(\"%%d\", &int)\n  Entrada de dados via teclado");
 
     printf("\n");
 
