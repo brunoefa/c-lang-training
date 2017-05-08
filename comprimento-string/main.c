@@ -10,6 +10,9 @@ int main() {
 
     char nome[25];
 
+    printf("%c", 65);
+
+    /*
     for(int i = 0; i < 5; i++) {
         printf("Informe o nome %d: ", i + 1);
         gets(nome);
@@ -17,5 +20,6 @@ int main() {
             printf("Nome selecionado: %s\n", nome);
         }
     }
+    */
     return 0;
 }
